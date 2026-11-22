@@ -1,5 +1,6 @@
-mutation	domain	known_role	clinvar_significance	cosmic_or_cbioportal_count	gnomad_af	south_asian_af	source_notes
-L858R	kinase (exon 21)	activating, sensitive to gefitinib/erlotinib			
-T790M	kinase (exon 20)	resistance to gefitinib/erlotinib			
-C797S	kinase (exon 20)	resistance to osimertinib			
-G719S	kinase (exon 18)	activating, less common			
+mutation	domain	known_role	clinvar_significance	cbioportal_count	gnomad_af	south_asian_af	source_notes
+L858R	kinase (exon 21)	activating; gefitinib/erlotinib-sensitive (background knowledge)	ClinVar 16609: germline Drug response (gefitinib), expert panel 3 stars; somatic Tier I NSCLC (2 stars, 3 submissions); somatic Oncogenic (1 star)	TODO	TODO	TODO	ClinVar page read 23 Nov 2026; known_role is background knowledge, not from the databases
+T790M	kinase (exon 20)	resistance to gefitinib/erlotinib (background knowledge)	ClinVar 16613: germline Drug response (erlotinib, gefitinib), expert panel 3 stars; somatic Tier I NSCLC (1 star); somatic Oncogenic (1 star)	TODO	TODO	TODO	ClinVar page read 23 Nov 2026; direction of effect not stated on summary page
+C797S	kinase (exon 20)	osimertinib resistance (background knowledge)	TODO	TODO	TODO	TODO	ClinVar lookup pending
+G719S	kinase (exon 18)	activating, less common (background knowledge)	TODO	TODO	TODO	TODO	ClinVar lookup pending
+L858R_T790M	kinase	double mutant, docked in this project	TODO	TODO	TODO	TODO	lookup pending
