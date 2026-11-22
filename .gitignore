@@ -1,0 +1,7 @@
+data/*
+!data/.gitkeep
+*.bam
+*.fastq*
+*.sra
+.ipynb_checkpoints/
+__pycache__/
