@@ -1,0 +1,5 @@
+mutation	domain	known_role	clinvar_significance	cosmic_or_cbioportal_count	gnomad_af	south_asian_af	source_notes
+L858R	kinase (exon 21)	activating, sensitive to gefitinib/erlotinib			
+T790M	kinase (exon 20)	resistance to gefitinib/erlotinib			
+C797S	kinase (exon 20)	resistance to osimertinib			
+G719S	kinase (exon 18)	activating, less common			
