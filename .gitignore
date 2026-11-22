@@ -5,3 +5,13 @@ data/*
 *.sra
 .ipynb_checkpoints/
 __pycache__/
+data/
+04_docking/ligands/
+04_docking/receptors/
+04_docking/results/
+04_docking/redock_test/
+04_docking/*.txt
+05_validation/dude_egfr/lig/
+05_validation/dude_egfr/out/
+05_validation/dude_egfr/*.ism
+05_validation/dude_egfr/*.txt
