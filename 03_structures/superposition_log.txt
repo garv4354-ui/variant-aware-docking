@@ -1,0 +1,2 @@
+residues used: 239
+CA RMSD (A): 0.86
