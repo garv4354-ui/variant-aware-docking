@@ -1,0 +1,2 @@
+erlotinib_box22_exh16.pdbqt poses: 9 RMSDs: [np.float64(4.16), np.float64(1.31), np.float64(5.64), np.float64(5.05), np.float64(5.58), np.float64(4.31), np.float64(5.91), np.float64(3.08), np.float64(4.25)] best: 1.31
+erlotinib_box14_exh32.pdbqt poses: 8 RMSDs: [np.float64(4.03), np.float64(4.35), np.float64(5.24), np.float64(4.21), np.float64(4.11), np.float64(3.5), np.float64(4.28), np.float64(4.73)] best: 3.5
