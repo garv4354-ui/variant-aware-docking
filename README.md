@@ -73,3 +73,14 @@ Scripts run in order: `03_structures/prepare_structures.py`, `04_docking/prepare
 ## Data and tools
 
 GEO GSE81089, PDB 1M17, AlphaFold DB (P00533), AutoDock Vina, PDBFixer, Open Babel, RDKit, Biopython, DESeq2.
+
+## Figures
+
+![T790M gatekeeper site](results/figures/t790m_site.png)
+Gatekeeper residue 790 (T790, magenta) vs T790M (orange) next to crystal erlotinib (yellow). The mutant side chain was modelled with PDBFixer, not taken from a crystal structure.
+
+![Docked vs crystal erlotinib](results/figures/erlotinib_pose.png)
+Top-ranked Vina pose (cyan) vs crystal erlotinib (yellow), 4.16 Å apart. Another pose reached 1.31 Å.
+
+![AlphaFold vs crystal](results/figures/alphafold_vs_crystal.png)
+AlphaFold model coloured by pLDDT (blue high, red low) on the 1M17 crystal structure (grey). CA RMSD 0.86 Å over 239 residues.
