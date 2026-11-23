@@ -17,4 +17,5 @@ dependencies:
   - pip
   - gemmi
   - pdbfixer
-prefix: /home/rahul/miniconda3/envs/docking
+  - pip:
+    - meeko==0.8.0
