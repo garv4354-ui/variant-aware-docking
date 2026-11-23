@@ -1,0 +1,7 @@
+receptor,ligand,n,mean,sd,min,max
+EGFR_WT,erlotinib,5,-7.029,0.065,-7.11,-6.96
+EGFR_WT,osimertinib,5,-8.645,0.024,-8.665,-8.604
+EGFR_WT,aspirin,5,-5.813,0.166,-6.108,-5.718
+EGFR_T790M,erlotinib,5,-6.701,0.054,-6.754,-6.613
+EGFR_T790M,osimertinib,5,-8.671,0.019,-8.705,-8.658
+EGFR_T790M,aspirin,5,-5.29,0.061,-5.337,-5.186
