@@ -1,0 +1,20 @@
+name: docking
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - rdkit
+  - openbabel
+  - vina
+  - biopython
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - pip
+  - gemmi
+  - pdbfixer
+prefix: /home/rahul/miniconda3/envs/docking
